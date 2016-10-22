@@ -1,7 +1,7 @@
 Waldo
 =====
 
-# Description:
+## Description
 This was my first android project.
 Made with Eclipse for Android, in our CPSC 210 class.
 This was also my first exposure to using API's.
